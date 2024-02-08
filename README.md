@@ -2,7 +2,7 @@
 # Instructions for how to run this program
 * Download and unzip the directory 
 * Open the folder in your text editor
-* Open your terminal for the `kipsu_project` directory
+* Open your terminal for the `bjerk-interview-project` directory
 * Install packages using the command `npm install`
 * run command `node index.js`
 
