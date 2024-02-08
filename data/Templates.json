@@ -1,0 +1,5 @@
+{
+    "welcome": "Good ${timeOfDay}, ${firstName}! Welcome to ${companyName}! You'll be staying in room ${roomNumber}. Plase enjoy your stay here in ${cityName}, and please let us know if you need anything.", 
+    "farewell": "Good ${timeOfDay}, ${firstName}! We hope you enjoyed your stay in Room ${roomNumber} at ${companyName}. We look forward to having you next time you're in ${cityName}. Safe travels!", 
+    "check_in": "Hi ${firstName}, we hope you're enjoying your ${timeOfDay} at ${companyName}. Just checking in, is there anything we can do for you?"
+}
